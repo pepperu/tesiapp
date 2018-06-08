@@ -1,6 +1,4 @@
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
-import { Contact } from './contact';
 
 // Import http module
 import { HttpClient } from '@angular/common/http';

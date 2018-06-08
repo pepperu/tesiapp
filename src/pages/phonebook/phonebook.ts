@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { ContactService } from './contact.service';
-import { Contact } from './contact';
  
 @Component({
   selector: 'page-phonebook',
